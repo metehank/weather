@@ -1,0 +1,21 @@
+.ui_card 
+{
+    margin: auto;
+    width: 50%;
+    border: 5px solid grey;
+    padding: 20px;
+    margin-top: 10%;
+}
+.container
+{
+    margin: auto;
+}
+.header
+{
+    font-size: large;
+    font-weight: bold;
+}
+.h2
+{
+    font-size: small;
+}

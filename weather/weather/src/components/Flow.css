@@ -1,0 +1,58 @@
+.meta 
+{
+    margin: auto;
+    background-color: cornsilk;
+    font-weight: bold;
+}
+.content
+{
+    margin: auto;
+    text-align: center;
+}
+.ui_card
+{
+    background-color: azure;
+    
+}
+.extra_content
+{
+    margin-top: 5%;
+}
+.userIcon
+{
+    width: 30px;
+    height: 30px;
+}
+.locationIcon
+{
+    width: 25px;
+    height: 30px;
+}
+.temperatureIcon
+{
+    width: 30px;
+    height: 30px;
+}
+.temperatureIcon2
+{
+    width: 30px;
+    height: 30px;
+}
+.commentIcon
+{
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+.calendarIcon
+{
+    width: 30px;
+    height: 30px;
+}
+.posts{
+    list-style:none;
+}
+.header
+{
+    margin-bottom: 10px;
+}

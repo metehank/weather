@@ -1,0 +1,12 @@
+.ui_card
+{
+    margin: auto;
+    width: 50%;
+    border: 5px solid grey;
+    padding: 50px;
+    margin-top: 5%;
+}
+.chatbox
+{
+    margin-bottom: 20%;
+}

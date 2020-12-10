@@ -1,0 +1,18 @@
+.meta 
+{
+    margin: auto;
+    background-color: cornsilk;
+    font-weight: bold;
+}
+.content
+{
+    margin: auto;
+    text-align: center;
+}
+.extra_content
+{
+    margin-top: 5%;
+}
+.posts{
+    list-style:none;
+}
