@@ -1,5 +1,6 @@
-run npm install then npm start on both /weather and /weather-backend
-change databaseUser, databasePassword
+# run npm install then npm start
+# on both /weather and /weather-backend
+# change databaseUser, databasePassword
 
 # admin user: 
     username: metehan
